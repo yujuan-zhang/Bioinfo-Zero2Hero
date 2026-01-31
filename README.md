@@ -4,6 +4,8 @@
 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html)
 
+<img src="img/course-diagram.svg" width="500" align="middle">
+
 <img src = "img/Starter.png" width = "300" align = "middle"> 
 
 This is the ***Cover Page*** of this course (drawn by *Dr*. Zhang)
