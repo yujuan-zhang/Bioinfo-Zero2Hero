@@ -1,12 +1,12 @@
-# BioinfoZero2Hero: The ABCs of Bioinformatics for starters and New Lab Members
+# Bioinfo from Zero to Hero: The ABCs of Bioinformatics for starters and New Lab Members
 
-***BioinfoZero2Hero*** is an onboarding knowledgebase designed to help starter of bioinformatics build essential skills, understand common workflows, and quickly integrate into ongoing research projects.
+***Bioinfo-Zero2Hero*** is an onboarding knowledgebase designed to help starter of bioinformatics build essential skills, understand common workflows, and quickly integrate into ongoing research projects.
 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 <img src="img/course-diagram.svg" width="800" align="middle">
 
-This is the ***Cover Page*** of this course (drawn by *Dr*. Zhang)
+This is the ***Cover Page*** of this course.
 
 ## 👩‍🏫👨‍🏫 Authors and maintainers 
 
