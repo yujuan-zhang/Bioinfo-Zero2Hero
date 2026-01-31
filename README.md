@@ -4,9 +4,7 @@
 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-<img src="img/course-diagram.svg" width="500" align="middle">
-
-<img src = "img/Starter.png" width = "300" align = "middle"> 
+<img src="img/course-diagram.svg" width="600" align="middle">
 
 This is the ***Cover Page*** of this course (drawn by *Dr*. Zhang)
 
@@ -51,7 +49,7 @@ Yujuan Zhang<sup>1,†</sup>
 | 4 | Matplotlib: Data Visualization in Python | [<img src="img/youtube.png" alt="YouTube" width="100">](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) | <img src="img/matplotlib.png" alt="Python" width="100"> | Jan. 20th, 2026 | Yujuan Zhang |
 | 5 | Scikit-learn: Machine Learning Library for Python | [<img src="img/youtube.png" alt="YouTube" width="100">](https://www.youtube.com/watch?v=SjOfbbfI2qY&list=PLcQVY5V2UY4LNmObS0gqNVyNdVfXnHwu8) | <img src="img/Scikit_learn.svg" alt="Python" width="100"> | Jan. 20th, 2026 | Yujuan Zhang |
 | 6 | PyTorch: Getting Started with Deep Learning | [<img src="img/youtube.png" alt="YouTube" width="100">](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) | <img src="img/pytorch.png" alt="Python" width="100"> | Jan. 20th, 2026 | Yujuan Zhang |
-| 7 | GitHub Collaborative Development Tutorial | [<img src="img/bilibili.png" alt="Bilibili" width="100">](https://www.bilibili.com/video/BV1o7411U7j6/) | <img src="img/github_desktop.png" alt="Github-desktop" width="100"> | Jan. 20th, 2026 | Yujuan Zhang |
+| 7 | GitHub: Collaborative Development Tutorial | [<img src="img/bilibili.png" alt="Bilibili" width="100">](https://www.bilibili.com/video/BV1o7411U7j6/) | <img src="img/github_desktop.png" alt="Github-desktop" width="100"> | Jan. 20th, 2026 | Yujuan Zhang |
 | 8 | Docker Quick Start Guide | [<img src="img/bilibili.png" alt="Bilibili" width="100">](https://www.bilibili.com/video/BV11L411g7U1/) | <img src="img/docker.png" alt="Docker" width="100"> | Jan. 28th, 2026 | Yujuan Zhang |
 | 9 | Datacamp: Learn Data and AI | [<img src="img/youtube.png" alt="YouTube" width="100">](https://www.datacamp.com/) | <img src="img/datacamp.png" alt="Python" width="100"> | Jan. 20th, 2026 | Yujuan Zhang |
 | 10 | Kaggle: Your Machine Learning and Data Science Community | [<img src="img/youtube.png" alt="YouTube" width="100">](https://www.kaggle.com/) | <img src="img/Kaggle.png" alt="Python" width="100"> | Jan. 20th, 2026 | Yujuan Zhang |
